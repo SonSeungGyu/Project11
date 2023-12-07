@@ -22,6 +22,7 @@ public class Ex4 {
 		
 		System.out.println("모든 문자열을 소문자로 변환하기 " + "AAA".toLowerCase());
 		System.out.println("모든 문자열을 대문자로 변환하기 " + "aaa".toUpperCase());
+		
 		System.out.println("문자열 양쪽에 공백이 있으면 제거하기: " + "ab cd ".trim());
 		System.out.println("boolean값을 문자열로 변환하기: " + String.valueOf(true));
 		
